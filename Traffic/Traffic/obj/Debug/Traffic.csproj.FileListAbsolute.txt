@@ -1,0 +1,10 @@
+C:\Users\stalk\source\repos\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\stalk\source\repos\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\stalk\source\repos\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.csprojAssemblyReference.cache
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.Form1.resources
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.Properties.Resources.resources
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.csproj.GenerateResource.cache
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.pdb
+C:\Users\stalk\source\repos\Traffic\Traffic\obj\Debug\Traffic.Cross.resources
